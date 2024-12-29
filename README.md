@@ -1,6 +1,6 @@
 # 星見薄荷・小粒
 星見薄荷・小粒は2023年に頒布したPoker互換基板用ケースの星見薄荷のデザインを踏襲した32キー、BLE対応キーボードです。  
-![alt text](doc/img/kotsubu.png)
+![alt text](doc/img/kotsubu.jpg)
 特徴:
 + bluetooth(BLE)対応
 + ユニボディスプリット、オルソリニア配列(キー数:32)
